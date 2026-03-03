@@ -1,4 +1,6 @@
 {
   "captive": true,
   "user-portal-url": "https://capport-test.vercel.app/portal.html"
+  "venue-info-url": "https://capport-test.vercel.app/info.html",
+  "can-extend-session": true
 }
